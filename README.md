@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zandise github user: @ZandiseOn100
+- 👀 I’m interested in Full stack developing
+- 🌱 I’m currently learning Python Frameworks: Flask and Django
+- 📫 How to reach me @Linkedln https://www.linkedin.com/in/zandise-ntiyane-97666812a/
+- TechStack includes: Python, JavaScript, Vb.net, Java, Php, NetBeans, Visual Studio, Git, Github, and MySQL.
