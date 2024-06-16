@@ -2,4 +2,4 @@
 - 👀 I’m interested in Full stack developing
 - 🌱 I’m currently learning Python Frameworks: Flask 
 - 📫 How to reach me @Linkedln https://www.linkedin.com/in/zandise-ntiyane-692413292/
-- TechStack includes: Python, JavaScript, Vb.net, Java, Php, NetBeans, Visual Studio, Git, Github, and MySQL.
+- TechStack includes: Python, JavaScript, Java, Visual Studio, Git, Github, and MySQL.
